@@ -1,6 +1,6 @@
 # **_TAXI BOOKING APPLICATION_**
 
-#### _Developed a real-time console application using Java by implementing OOPs._
+#### _Developed a console application using Java by implementing OOPs._
 
 ### **_Deliverables :_**
 
